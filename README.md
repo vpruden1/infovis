@@ -9,4 +9,4 @@
 
 [w33 - Scotland (tableau)](https://vpruden1.github.io/infovis/W33_Scotland.html)
 
-[w34 - Contraceptive Use (tableau)] (https://vpruden1.github.io/infovis/W34_ContraceptiveUse.html)
+[w34 - Contraceptive Use (tableau)](https://vpruden1.github.io/infovis/W34_ContraceptiveUse.html)
