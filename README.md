@@ -8,3 +8,5 @@
 [w32 - Remote Work (rawgraphs)](https://vpruden1.github.io/infovis/W32_remote_work.html)
 
 [w33 - Scotland (tableau)](https://vpruden1.github.io/infovis/W33_Scotland.html)
+
+[w34 - Contraceptive Use (tableau)] (https://vpruden1.github.io/infovis/W34_ContraceptiveUse.html)
