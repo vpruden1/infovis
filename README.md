@@ -10,3 +10,5 @@
 [w33 - Scotland (tableau)](https://vpruden1.github.io/infovis/W33_Scotland.html)
 
 [w34 - Contraceptive Use (tableau)](https://vpruden1.github.io/infovis/W34_ContraceptiveUse.html)
+
+[TP Datos Personales](https://vpruden1.github.io/TP-Datos-Personales/index.html)
